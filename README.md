@@ -1,1 +1,4 @@
 # prism
+PRISM is a pre-artifact communication-strategy workflow, not a slide generator. It refracts a messy communication request into structured strategic clarity: Perception (read the real situation) → Reasoning (infer the true objective) → Intent (define the audience outcome) → Strategy (choose the medium that maximises it) → Message (draft, review, revise).
+
+Most tools assume prompt → presentation. PRISM assumes messy intent → outcome discovery → audience understanding → decision framing → transformation map → strategy → artifact recommendation → draft → executive review → revision. The most important work happens before the first slide exists. PRISM's job is to help the user avoid building the wrong artifact quickly.
